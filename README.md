@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @TDennisCS
-- 👀 I’m interested in Natural Language Processing and Machine learning 
-- 🌱 I’m currently learning everything I'm currently new to the space. I'm a undergrad at ODU for Computer Science.
-- 💞️ I’m looking to collaborate on anything right now. "I want to sample as much as I can in this vitural buffet.
-- 📫 How to reach me @ tvndnns@gmail.com 
+-  Hi, I’m @TDennisCS
+- I’m interested in Natural Language Processing and Machine learning 
+-  I’m currently learning everything I'm currently new to the space. I'm a undergrad at ODU for Computer Science.
+- 💞️ I’m looking to collaborate on anything right now. "I want to learn as much as I can."
+- 📫 How to reach me @tdenn007@odu.edu 
