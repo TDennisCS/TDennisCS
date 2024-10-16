@@ -1,5 +1,4 @@
 -  Hi, I’m @TDennisCS
-- I’m interested in Data Science and Machine learning 
-- I’m currently learning everything I'm currently new to the space. I'm an undergrad at NSU for Mathematics.
+- I’m currently learning everything I'm currently new to the space. I'm an undergrad at NSU for Computer Science. 
 - I’m looking to collaborate on everything right now. "I want to learn as much as I can."
 - 📫 How to reach me @t.dennis130673@spartans.nsu.edu  
